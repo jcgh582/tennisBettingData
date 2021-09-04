@@ -1,0 +1,59 @@
+{"op":"mcm","clk":"8449201760","pt":1548411732057,"mc":[{"id":"1.154080998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29097765","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_WINNER","marketTime":"2019-01-27T08:30:00.000Z","suspendTime":"2019-01-27T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2249229,"name":"Novak Djokovic"},{"status":"ACTIVE","sortPriority":2,"id":2251410,"name":"Rafael Nadal"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"Australia/Sydney","openDate":"2019-01-27T08:30:00.000Z","version":2606947209,"name":"Set 3 Winner","eventName":"Djokovic v Nadal"}}]}
+{"op":"mcm","clk":"8465169794","pt":1548550513630,"mc":[{"id":"1.154080998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29097765","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_WINNER","marketTime":"2019-01-27T08:30:00.000Z","suspendTime":"2019-01-27T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2249229,"name":"Novak Djokovic"},{"status":"ACTIVE","sortPriority":2,"id":2251410,"name":"Rafael Nadal"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"Australia/Sydney","openDate":"2019-01-27T08:30:00.000Z","version":2606947209,"name":"Set 3 Winner","eventName":"Djokovic v Nadal"}}]}
+{"op":"mcm","clk":"8466131822","pt":1548571021342,"mc":[{"id":"1.154080998","rc":[{"ltp":2.08,"id":2249229},{"ltp":1.92,"id":2251410}]}]}
+{"op":"mcm","clk":"8466404316","pt":1548576793919,"mc":[{"id":"1.154080998","rc":[{"ltp":1.91,"id":2249229},{"ltp":2.08,"id":2251410}]}]}
+{"op":"mcm","clk":"8466534102","pt":1548578833847,"mc":[{"id":"1.154080998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29097765","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_WINNER","marketTime":"2019-01-27T08:30:00.000Z","suspendTime":"2019-01-27T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2249229,"name":"Novak Djokovic"},{"status":"ACTIVE","sortPriority":2,"id":2251410,"name":"Rafael Nadal"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"Australia/Sydney","openDate":"2019-01-27T08:30:00.000Z","version":2610847918,"name":"Set 3 Winner","eventName":"Djokovic v Nadal"}}]}
+{"op":"mcm","clk":"8466670489","pt":1548580453784,"mc":[{"id":"1.154080998","rc":[{"ltp":1.4,"id":2249229}]}]}
+{"op":"mcm","clk":"8466812003","pt":1548581833895,"mc":[{"id":"1.154080998","rc":[{"ltp":1.48,"id":2249229},{"ltp":3.1,"id":2251410}]}]}
+{"op":"mcm","clk":"8466864346","pt":1548582373915,"mc":[{"id":"1.154080998","rc":[{"ltp":1.5,"id":2249229},{"ltp":3.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8466921691","pt":1548582913081,"mc":[{"id":"1.154080998","rc":[{"ltp":1.52,"id":2249229}]}]}
+{"op":"mcm","clk":"8466946752","pt":1548583213959,"mc":[{"id":"1.154080998","rc":[{"ltp":1.6,"id":2249229}]}]}
+{"op":"mcm","clk":"8466958175","pt":1548583333793,"mc":[{"id":"1.154080998","rc":[{"ltp":1.43,"id":2249229}]}]}
+{"op":"mcm","clk":"8466975040","pt":1548583393966,"mc":[{"id":"1.154080998","rc":[{"ltp":3.1,"id":2251410}]}]}
+{"op":"mcm","clk":"8466981101","pt":1548583453960,"mc":[{"id":"1.154080998","rc":[{"ltp":1.42,"id":2249229}]}]}
+{"op":"mcm","clk":"8466986578","pt":1548583513596,"mc":[{"id":"1.154080998","rc":[{"ltp":1.44,"id":2249229},{"ltp":3.2,"id":2251410}]}]}
+{"op":"mcm","clk":"8466991839","pt":1548583573797,"mc":[{"id":"1.154080998","rc":[{"ltp":1.43,"id":2249229}]}]}
+{"op":"mcm","clk":"8466997382","pt":1548583633777,"mc":[{"id":"1.154080998","rc":[{"ltp":1.45,"id":2249229}]}]}
+{"op":"mcm","clk":"8467003283","pt":1548583693828,"mc":[{"id":"1.154080998","rc":[{"ltp":1.47,"id":2249229},{"ltp":3.1,"id":2251410}]}]}
+{"op":"mcm","clk":"8467009644","pt":1548583753793,"mc":[{"id":"1.154080998","rc":[{"ltp":1.44,"id":2249229},{"ltp":3.25,"id":2251410}]}]}
+{"op":"mcm","clk":"8467015428","pt":1548583813432,"mc":[{"id":"1.154080998","rc":[{"ltp":1.43,"id":2249229},{"ltp":3.3,"id":2251410}]}]}
+{"op":"mcm","clk":"8467021259","pt":1548583873920,"mc":[{"id":"1.154080998","rc":[{"ltp":1.52,"id":2249229},{"ltp":2.88,"id":2251410}]}]}
+{"op":"mcm","clk":"8467027528","pt":1548583933481,"mc":[{"id":"1.154080998","rc":[{"ltp":1.56,"id":2249229},{"ltp":2.78,"id":2251410}]}]}
+{"op":"mcm","clk":"8467034179","pt":1548583993615,"mc":[{"id":"1.154080998","rc":[{"ltp":1.54,"id":2249229},{"ltp":2.84,"id":2251410}]}]}
+{"op":"mcm","clk":"8467041409","pt":1548584053704,"mc":[{"id":"1.154080998","rc":[{"ltp":1.55,"id":2249229},{"ltp":2.8,"id":2251410}]}]}
+{"op":"mcm","clk":"8467048267","pt":1548584113873,"mc":[{"id":"1.154080998","rc":[{"ltp":1.48,"id":2249229},{"ltp":3.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467054450","pt":1548584173746,"mc":[{"id":"1.154080998","rc":[{"ltp":1.49,"id":2249229},{"ltp":3.05,"id":2251410}]}]}
+{"op":"mcm","clk":"8467060565","pt":1548584233502,"mc":[{"id":"1.154080998","rc":[{"ltp":1.34,"id":2249229},{"ltp":3.45,"id":2251410}]}]}
+{"op":"mcm","clk":"8467077166","pt":1548584293833,"mc":[{"id":"1.154080998","rc":[{"ltp":1.2,"id":2249229},{"ltp":6.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467083971","pt":1548584353884,"mc":[{"id":"1.154080998","rc":[{"ltp":1.27,"id":2249229},{"ltp":4.3,"id":2251410}]}]}
+{"op":"mcm","clk":"8467090293","pt":1548584413938,"mc":[{"id":"1.154080998","rc":[{"ltp":1.13,"id":2249229},{"ltp":8.6,"id":2251410}]}]}
+{"op":"mcm","clk":"8467096686","pt":1548584473809,"mc":[{"id":"1.154080998","rc":[{"ltp":1.11,"id":2249229},{"ltp":9.2,"id":2251410}]}]}
+{"op":"mcm","clk":"8467102943","pt":1548584533905,"mc":[{"id":"1.154080998","rc":[{"ltp":1.15,"id":2249229},{"ltp":7.6,"id":2251410}]}]}
+{"op":"mcm","clk":"8467109634","pt":1548584593316,"mc":[{"id":"1.154080998","rc":[{"ltp":1.11,"id":2249229},{"ltp":7.2,"id":2251410}]}]}
+{"op":"mcm","clk":"8467116392","pt":1548584653803,"mc":[{"id":"1.154080998","rc":[{"ltp":1.07,"id":2249229},{"ltp":11.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467123005","pt":1548584713873,"mc":[{"id":"1.154080998","rc":[{"ltp":1.09,"id":2249229},{"ltp":12.5,"id":2251410}]}]}
+{"op":"mcm","clk":"8467129633","pt":1548584773714,"mc":[{"id":"1.154080998","rc":[{"ltp":1.13,"id":2249229},{"ltp":10.5,"id":2251410}]}]}
+{"op":"mcm","clk":"8467135388","pt":1548584833236,"mc":[{"id":"1.154080998","rc":[{"ltp":1.15,"id":2249229},{"ltp":7.6,"id":2251410}]}]}
+{"op":"mcm","clk":"8467141474","pt":1548584893977,"mc":[{"id":"1.154080998","rc":[{"ltp":1.13,"id":2249229},{"ltp":8.6,"id":2251410}]}]}
+{"op":"mcm","clk":"8467148025","pt":1548584953961,"mc":[{"id":"1.154080998","rc":[{"ltp":8.4,"id":2251410}]}]}
+{"op":"mcm","clk":"8467154513","pt":1548585013459,"mc":[{"id":"1.154080998","rc":[{"ltp":1.11,"id":2249229},{"ltp":10.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467161404","pt":1548585073875,"mc":[{"id":"1.154080998","rc":[{"ltp":1.1,"id":2249229}]}]}
+{"op":"mcm","clk":"8467186438","pt":1548585193921,"mc":[{"id":"1.154080998","rc":[{"ltp":1.17,"id":2249229},{"ltp":7.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467193207","pt":1548585253614,"mc":[{"id":"1.154080998","rc":[{"ltp":5.5,"id":2251410}]}]}
+{"op":"mcm","clk":"8467200186","pt":1548585313961,"mc":[{"id":"1.154080998","rc":[{"ltp":1.09,"id":2249229},{"ltp":10.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467207195","pt":1548585373470,"mc":[{"id":"1.154080998","rc":[{"ltp":1.12,"id":2249229}]}]}
+{"op":"mcm","clk":"8467214199","pt":1548585433799,"mc":[{"id":"1.154080998","rc":[{"ltp":1.11,"id":2249229},{"ltp":11.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467221617","pt":1548585493881,"mc":[{"id":"1.154080998","rc":[{"ltp":1.1,"id":2249229}]}]}
+{"op":"mcm","clk":"8467228836","pt":1548585553569,"mc":[{"id":"1.154080998","rc":[{"ltp":1.11,"id":2249229},{"ltp":10.5,"id":2251410}]}]}
+{"op":"mcm","clk":"8467243323","pt":1548585673597,"mc":[{"id":"1.154080998","rc":[{"ltp":1.12,"id":2249229},{"ltp":7.6,"id":2251410}]}]}
+{"op":"mcm","clk":"8467250900","pt":1548585733827,"mc":[{"id":"1.154080998","rc":[{"ltp":1.13,"id":2249229},{"ltp":9.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467257803","pt":1548585793462,"mc":[{"id":"1.154080998","rc":[{"ltp":1.09,"id":2249229},{"ltp":12.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467264526","pt":1548585853956,"mc":[{"id":"1.154080998","rc":[{"ltp":1.16,"id":2249229},{"ltp":7.2,"id":2251410}]}]}
+{"op":"mcm","clk":"8467271760","pt":1548585913864,"mc":[{"id":"1.154080998","rc":[{"ltp":1.06,"id":2249229},{"ltp":12.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467278719","pt":1548585973861,"mc":[{"id":"1.154080998","rc":[{"ltp":1.07,"id":2249229},{"ltp":17.5,"id":2251410}]}]}
+{"op":"mcm","clk":"8467285256","pt":1548586033769,"mc":[{"id":"1.154080998","rc":[{"ltp":1.06,"id":2249229}]}]}
+{"op":"mcm","clk":"8467301909","pt":1548586093179,"mc":[{"id":"1.154080998","rc":[{"ltp":1.04,"id":2249229}]}]}
+{"op":"mcm","clk":"8467308267","pt":1548586153851,"mc":[{"id":"1.154080998","rc":[{"ltp":1.01,"id":2249229}]}]}
+{"op":"mcm","clk":"8467315403","pt":1548586213757,"mc":[{"id":"1.154080998","rc":[{"ltp":1.04,"id":2249229},{"ltp":26.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467322670","pt":1548586273531,"mc":[{"id":"1.154080998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29097765","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_WINNER","marketTime":"2019-01-27T08:30:00.000Z","suspendTime":"2019-01-27T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2249229,"name":"Novak Djokovic"},{"status":"ACTIVE","sortPriority":2,"id":2251410,"name":"Rafael Nadal"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"Australia/Sydney","openDate":"2019-01-27T08:30:00.000Z","version":2610948008,"name":"Set 3 Winner","eventName":"Djokovic v Nadal"},"rc":[{"ltp":1.05,"id":2249229},{"ltp":21.0,"id":2251410}]}]}
+{"op":"mcm","clk":"8467328289","pt":1548586321938,"mc":[{"id":"1.154080998","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29097765","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_WINNER","marketTime":"2019-01-27T08:30:00.000Z","suspendTime":"2019-01-27T08:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2019-01-27T10:51:51.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2249229,"name":"Novak Djokovic"},{"status":"LOSER","sortPriority":2,"id":2251410,"name":"Rafael Nadal"}],"regulators":["MR_INT"],"countryCode":"AU","discountAllowed":true,"timezone":"Australia/Sydney","openDate":"2019-01-27T08:30:00.000Z","version":2610950461,"name":"Set 3 Winner","eventName":"Djokovic v Nadal"}}]}

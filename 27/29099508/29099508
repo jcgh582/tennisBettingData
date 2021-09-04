@@ -1,0 +1,116 @@
+{"op":"mcm","clk":"8457612155","pt":1548498794128,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T14:00:00.000Z","version":2608275861,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8457642351","pt":1548499007945,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T14:00:00.000Z","version":2608275861,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8457946268","pt":1548501288960,"mc":[{"id":"1.154138501","rc":[{"ltp":1.91,"id":12737426}]}]}
+{"op":"mcm","clk":"8458074599","pt":1548502167264,"mc":[{"id":"1.154138501","rc":[{"ltp":1.95,"id":12737426}]}]}
+{"op":"mcm","clk":"8458649153","pt":1548505816481,"mc":[{"id":"1.154138501","rc":[{"ltp":2.16,"id":11633119}]}]}
+{"op":"mcm","clk":"8459047825","pt":1548507977615,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T17:00:00.000Z","version":2608588074,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8459632958","pt":1548510971635,"mc":[{"id":"1.154138501","rc":[{"ltp":1.86,"id":12737426}]}]}
+{"op":"mcm","clk":"8459715470","pt":1548511387738,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T17:00:00.000Z","version":2608751174,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8460794661","pt":1548516968190,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609104411,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8461899439","pt":1548522666785,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609564506,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8461952162","pt":1548523037562,"mc":[{"id":"1.154138501","rc":[{"ltp":1.7,"id":12737426}]}]}
+{"op":"mcm","clk":"8462988331","pt":1548529180612,"mc":[{"id":"1.154138501","rc":[{"ltp":1.71,"id":12737426}]}]}
+{"op":"mcm","clk":"8463113652","pt":1548529865234,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609898933,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8463191773","pt":1548530287376,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:17:30.000Z","version":2609916137,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}
+{"op":"mcm","clk":"8463243246","pt":1548530657724,"mc":[{"id":"1.154138501","rc":[{"ltp":1.82,"id":12737426},{"ltp":1.95,"id":11633119}]}]}
+{"op":"mcm","clk":"8463249918","pt":1548530713277,"mc":[{"id":"1.154138501","rc":[{"ltp":1.86,"id":12737426}]}]}
+{"op":"mcm","clk":"8463257680","pt":1548530773006,"mc":[{"id":"1.154138501","rc":[{"ltp":2.04,"id":12737426}]}]}
+{"op":"mcm","clk":"8463263031","pt":1548530811051,"mc":[{"id":"1.154138501","rc":[{"ltp":1.98,"id":12737426},{"ltp":2.02,"id":11633119}]}]}
+{"op":"mcm","clk":"8463432772","pt":1548531983406,"mc":[{"id":"1.154138501","rc":[{"ltp":1.81,"id":11633119}]}]}
+{"op":"mcm","clk":"8463485533","pt":1548532373271,"mc":[{"id":"1.154138501","rc":[{"ltp":2.02,"id":11633119}]}]}
+{"op":"mcm","clk":"8464360950","pt":1548539441179,"mc":[{"id":"1.154138501","rc":[{"ltp":1.42,"id":12737426}]}]}
+{"op":"mcm","clk":"8465203620","pt":1548550951837,"mc":[{"id":"1.154138501","rc":[{"ltp":1.45,"id":12737426}]}]}
+{"op":"mcm","clk":"8465693288","pt":1548559336552,"mc":[{"id":"1.154138501","rc":[{"ltp":1.96,"id":12737426},{"ltp":2.04,"id":11633119}]}]}
+{"op":"mcm","clk":"8465741537","pt":1548560234157,"mc":[{"id":"1.154138501","rc":[{"ltp":1.98,"id":12737426}]}]}
+{"op":"mcm","clk":"8466025054","pt":1548568693251,"mc":[{"id":"1.154138501","rc":[{"ltp":1.41,"id":12737426}]}]}
+{"op":"mcm","clk":"8466192934","pt":1548572413499,"mc":[{"id":"1.154138501","rc":[{"ltp":1.98,"id":12737426},{"ltp":2.02,"id":11633119}]}]}
+{"op":"mcm","clk":"8466405324","pt":1548576813273,"mc":[{"id":"1.154138501","rc":[{"ltp":1.91,"id":12737426}]}]}
+{"op":"mcm","clk":"8467276256","pt":1548585952469,"mc":[{"id":"1.154138501","rc":[{"ltp":1.66,"id":12737426}]}]}
+{"op":"mcm","clk":"8467384033","pt":1548586791106,"mc":[{"id":"1.154138501","rc":[{"ltp":1.89,"id":12737426}]}]}
+{"op":"mcm","clk":"8468020224","pt":1548590035389,"mc":[{"id":"1.154138501","rc":[{"ltp":1.68,"id":12737426},{"ltp":2.48,"id":11633119}]}]}
+{"op":"mcm","clk":"8468265836","pt":1548591408198,"mc":[{"id":"1.154138501","rc":[{"ltp":1.84,"id":12737426}]}]}
+{"op":"mcm","clk":"8468412304","pt":1548592157174,"mc":[{"id":"1.154138501","rc":[{"ltp":1.62,"id":12737426}]}]}
+{"op":"mcm","clk":"8468948452","pt":1548595685192,"mc":[{"id":"1.154138501","rc":[{"ltp":1.6,"id":12737426}]}]}
+{"op":"mcm","clk":"8469185526","pt":1548597316184,"mc":[{"id":"1.154138501","rc":[{"ltp":1.71,"id":12737426}]}]}
+{"op":"mcm","clk":"8469338405","pt":1548598440082,"mc":[{"id":"1.154138501","rc":[{"ltp":1.56,"id":12737426}]}]}
+{"op":"mcm","clk":"8469665452","pt":1548600594562,"mc":[{"id":"1.154138501","rc":[{"ltp":1.71,"id":12737426}]}]}
+{"op":"mcm","clk":"8469708210","pt":1548600899211,"mc":[{"id":"1.154138501","rc":[{"ltp":1.79,"id":12737426}]}]}
+{"op":"mcm","clk":"8470214508","pt":1548604424098,"mc":[{"id":"1.154138501","rc":[{"ltp":1.6,"id":12737426}]}]}
+{"op":"mcm","clk":"8470302613","pt":1548605041270,"mc":[{"id":"1.154138501","rc":[{"ltp":1.79,"id":12737426},{"ltp":2.26,"id":11633119}]}]}
+{"op":"mcm","clk":"8470310377","pt":1548605088291,"mc":[{"id":"1.154138501","rc":[{"ltp":1.6,"id":12737426}]}]}
+{"op":"mcm","clk":"8470394528","pt":1548605585829,"mc":[{"id":"1.154138501","rc":[{"ltp":1.44,"id":12737426}]}]}
+{"op":"mcm","clk":"8470518239","pt":1548606315453,"mc":[{"id":"1.154138501","rc":[{"ltp":1.79,"id":12737426}]}]}
+{"op":"mcm","clk":"8470748332","pt":1548607665342,"mc":[{"id":"1.154138501","rc":[{"ltp":1.42,"id":12737426}]}]}
+{"op":"mcm","clk":"8470787003","pt":1548607989057,"mc":[{"id":"1.154138501","rc":[{"ltp":1.79,"id":12737426}]}]}
+{"op":"mcm","clk":"8470792535","pt":1548608038403,"mc":[{"id":"1.154138501","rc":[{"ltp":1.8,"id":12737426}]}]}
+{"op":"mcm","clk":"8470795740","pt":1548608067453,"mc":[{"id":"1.154138501","rc":[{"ltp":1.74,"id":11633119}]}]}
+{"op":"mcm","clk":"8471030213","pt":1548609584638,"mc":[{"id":"1.154138501","rc":[{"ltp":1.6,"id":11633119}]}]}
+{"op":"mcm","clk":"8471431540","pt":1548612557640,"mc":[{"id":"1.154138501","rc":[{"ltp":1.5,"id":12737426},{"ltp":3.0,"id":11633119}]}]}
+{"op":"mcm","clk":"8471676778","pt":1548614565657,"mc":[{"id":"1.154138501","rc":[{"ltp":1.92,"id":11633119}]}]}
+{"op":"mcm","clk":"8471763005","pt":1548615343215,"mc":[{"id":"1.154138501","rc":[{"ltp":1.53,"id":12737426}]}]}
+{"op":"mcm","clk":"8472155260","pt":1548617902475,"mc":[{"id":"1.154138501","rc":[{"ltp":1.44,"id":12737426}]}]}
+{"op":"mcm","clk":"8472250874","pt":1548618529557,"mc":[{"id":"1.154138501","rc":[{"ltp":1.41,"id":12737426}]}]}
+{"op":"mcm","clk":"8472286337","pt":1548618891244,"mc":[{"id":"1.154138501","rc":[{"ltp":1.32,"id":12737426}]}]}
+{"op":"mcm","clk":"8472303862","pt":1548619083265,"mc":[{"id":"1.154138501","rc":[{"ltp":1.25,"id":12737426}]}]}
+{"op":"mcm","clk":"8472330747","pt":1548619336568,"mc":[{"id":"1.154138501","rc":[{"ltp":1.23,"id":12737426}]}]}
+{"op":"mcm","clk":"8472354328","pt":1548619454112,"mc":[{"id":"1.154138501","rc":[{"ltp":1.26,"id":12737426}]}]}
+{"op":"mcm","clk":"8472384504","pt":1548619687458,"mc":[{"id":"1.154138501","rc":[{"ltp":1.29,"id":12737426}]}]}
+{"op":"mcm","clk":"8472456811","pt":1548620175575,"mc":[{"id":"1.154138501","rc":[{"ltp":1.24,"id":12737426}]}]}
+{"op":"mcm","clk":"8472482248","pt":1548620289191,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426}]}]}
+{"op":"mcm","clk":"8472508689","pt":1548620475230,"mc":[{"id":"1.154138501","rc":[{"ltp":1.16,"id":12737426}]}]}
+{"op":"mcm","clk":"8472538291","pt":1548620687931,"mc":[{"id":"1.154138501","rc":[{"ltp":1.1,"id":12737426}]}]}
+{"op":"mcm","clk":"8472551099","pt":1548620775779,"mc":[{"id":"1.154138501","rc":[{"ltp":1.2,"id":12737426}]}]}
+{"op":"mcm","clk":"8472560495","pt":1548620837518,"mc":[{"id":"1.154138501","rc":[{"ltp":1.14,"id":12737426}]}]}
+{"op":"mcm","clk":"8472568574","pt":1548620896101,"mc":[{"id":"1.154138501","rc":[{"ltp":1.18,"id":12737426}]}]}
+{"op":"mcm","clk":"8472594857","pt":1548621070782,"mc":[{"id":"1.154138501","rc":[{"ltp":1.19,"id":12737426}]}]}
+{"op":"mcm","clk":"8472603565","pt":1548621136101,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426},{"ltp":4.5,"id":11633119}]}]}
+{"op":"mcm","clk":"8472620373","pt":1548621192613,"mc":[{"id":"1.154138501","rc":[{"ltp":1.36,"id":12737426},{"ltp":4.1,"id":11633119}]}]}
+{"op":"mcm","clk":"8472628912","pt":1548621253703,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426},{"ltp":4.6,"id":11633119}]}]}
+{"op":"mcm","clk":"8472638144","pt":1548621317854,"mc":[{"id":"1.154138501","rc":[{"ltp":1.26,"id":12737426}]}]}
+{"op":"mcm","clk":"8472648248","pt":1548621377700,"mc":[{"id":"1.154138501","rc":[{"ltp":1.2,"id":12737426}]}]}
+{"op":"mcm","clk":"8472665532","pt":1548621489339,"mc":[{"id":"1.154138501","rc":[{"ltp":1.35,"id":12737426}]}]}
+{"op":"mcm","clk":"8472675296","pt":1548621554098,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426}]}]}
+{"op":"mcm","clk":"8472684699","pt":1548621617930,"mc":[{"id":"1.154138501","rc":[{"ltp":1.32,"id":12737426}]}]}
+{"op":"mcm","clk":"8472693378","pt":1548621676299,"mc":[{"id":"1.154138501","rc":[{"ltp":1.39,"id":12737426}]}]}
+{"op":"mcm","clk":"8472702219","pt":1548621737118,"mc":[{"id":"1.154138501","rc":[{"ltp":1.45,"id":12737426}]}]}
+{"op":"mcm","clk":"8472709957","pt":1548621790681,"mc":[{"id":"1.154138501","rc":[{"ltp":1.37,"id":12737426}]}]}
+{"op":"mcm","clk":"8472714790","pt":1548621824738,"mc":[{"id":"1.154138501","rc":[{"ltp":1.38,"id":12737426}]}]}
+{"op":"mcm","clk":"8472742987","pt":1548622030579,"mc":[{"id":"1.154138501","rc":[{"ltp":1.47,"id":12737426},{"ltp":3.1,"id":11633119}]}]}
+{"op":"mcm","clk":"8472760514","pt":1548622096465,"mc":[{"id":"1.154138501","rc":[{"ltp":1.32,"id":12737426}]}]}
+{"op":"mcm","clk":"8472767466","pt":1548622149724,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426}]}]}
+{"op":"mcm","clk":"8472775069","pt":1548622216422,"mc":[{"id":"1.154138501","rc":[{"ltp":1.2,"id":12737426}]}]}
+{"op":"mcm","clk":"8472778255","pt":1548622243769,"mc":[{"id":"1.154138501","rc":[{"ltp":1.18,"id":12737426}]}]}
+{"op":"mcm","clk":"8472793549","pt":1548622384571,"mc":[{"id":"1.154138501","rc":[{"ltp":1.19,"id":12737426}]}]}
+{"op":"mcm","clk":"8472800314","pt":1548622456637,"mc":[{"id":"1.154138501","rc":[{"ltp":1.16,"id":12737426}]}]}
+{"op":"mcm","clk":"8472805550","pt":1548622515687,"mc":[{"id":"1.154138501","rc":[{"ltp":1.27,"id":12737426}]}]}
+{"op":"mcm","clk":"8472820743","pt":1548622694109,"mc":[{"id":"1.154138501","rc":[{"ltp":1.38,"id":12737426}]}]}
+{"op":"mcm","clk":"8472825553","pt":1548622753163,"mc":[{"id":"1.154138501","rc":[{"ltp":1.41,"id":12737426}]}]}
+{"op":"mcm","clk":"8472857258","pt":1548622994122,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426}]}]}
+{"op":"mcm","clk":"8472862067","pt":1548623042435,"mc":[{"id":"1.154138501","rc":[{"ltp":1.21,"id":12737426}]}]}
+{"op":"mcm","clk":"8472868395","pt":1548623101324,"mc":[{"id":"1.154138501","rc":[{"ltp":1.15,"id":12737426}]}]}
+{"op":"mcm","clk":"8472876437","pt":1548623174254,"mc":[{"id":"1.154138501","rc":[{"ltp":1.28,"id":12737426},{"ltp":4.5,"id":11633119}]}]}
+{"op":"mcm","clk":"8472882193","pt":1548623224252,"mc":[{"id":"1.154138501","rc":[{"ltp":1.18,"id":12737426}]}]}
+{"op":"mcm","clk":"8472891309","pt":1548623297154,"mc":[{"id":"1.154138501","rc":[{"ltp":1.21,"id":12737426}]}]}
+{"op":"mcm","clk":"8472899231","pt":1548623357118,"mc":[{"id":"1.154138501","rc":[{"ltp":1.16,"id":12737426}]}]}
+{"op":"mcm","clk":"8472914464","pt":1548623473318,"mc":[{"id":"1.154138501","rc":[{"ltp":1.21,"id":12737426}]}]}
+{"op":"mcm","clk":"8472922505","pt":1548623536397,"mc":[{"id":"1.154138501","rc":[{"ltp":1.16,"id":12737426}]}]}
+{"op":"mcm","clk":"8472930078","pt":1548623596873,"mc":[{"id":"1.154138501","rc":[{"ltp":1.23,"id":12737426}]}]}
+{"op":"mcm","clk":"8472937083","pt":1548623652293,"mc":[{"id":"1.154138501","rc":[{"ltp":1.32,"id":12737426}]}]}
+{"op":"mcm","clk":"8472945160","pt":1548623717091,"mc":[{"id":"1.154138501","rc":[{"ltp":1.25,"id":12737426},{"ltp":5.0,"id":11633119}]}]}
+{"op":"mcm","clk":"8472952558","pt":1548623773870,"mc":[{"id":"1.154138501","rc":[{"ltp":1.17,"id":12737426},{"ltp":7.8,"id":11633119}]}]}
+{"op":"mcm","clk":"8472960546","pt":1548623837259,"mc":[{"id":"1.154138501","rc":[{"ltp":1.18,"id":12737426},{"ltp":5.1,"id":11633119}]}]}
+{"op":"mcm","clk":"8472976043","pt":1548623896538,"mc":[{"id":"1.154138501","rc":[{"ltp":1.12,"id":12737426},{"ltp":6.8,"id":11633119}]}]}
+{"op":"mcm","clk":"8472982281","pt":1548623950073,"mc":[{"id":"1.154138501","rc":[{"ltp":1.1,"id":12737426}]}]}
+{"op":"mcm","clk":"8472990432","pt":1548624017048,"mc":[{"id":"1.154138501","rc":[{"ltp":1.08,"id":12737426}]}]}
+{"op":"mcm","clk":"8472997466","pt":1548624077588,"mc":[{"id":"1.154138501","rc":[{"ltp":1.15,"id":12737426},{"ltp":9.2,"id":11633119}]}]}
+{"op":"mcm","clk":"8473003996","pt":1548624137481,"mc":[{"id":"1.154138501","rc":[{"ltp":1.17,"id":12737426}]}]}
+{"op":"mcm","clk":"8473010709","pt":1548624192859,"mc":[{"id":"1.154138501","rc":[{"ltp":1.29,"id":12737426},{"ltp":5.0,"id":11633119}]}]}
+{"op":"mcm","clk":"8473025485","pt":1548624317540,"mc":[{"id":"1.154138501","rc":[{"ltp":1.16,"id":12737426}]}]}
+{"op":"mcm","clk":"8473032866","pt":1548624377178,"mc":[{"id":"1.154138501","rc":[{"ltp":1.13,"id":12737426}]}]}
+{"op":"mcm","clk":"8473039805","pt":1548624437232,"mc":[{"id":"1.154138501","rc":[{"ltp":1.12,"id":12737426}]}]}
+{"op":"mcm","clk":"8473047327","pt":1548624497943,"mc":[{"id":"1.154138501","rc":[{"ltp":1.11,"id":12737426}]}]}
+{"op":"mcm","clk":"8473054076","pt":1548624555332,"mc":[{"id":"1.154138501","rc":[{"ltp":1.13,"id":12737426},{"ltp":8.6,"id":11633119}]}]}
+{"op":"mcm","clk":"8473061126","pt":1548624615903,"mc":[{"id":"1.154138501","rc":[{"ltp":1.06,"id":12737426}]}]}
+{"op":"mcm","clk":"8473067926","pt":1548624675986,"mc":[{"id":"1.154138501","rc":[{"ltp":15.0,"id":11633119}]}]}
+{"op":"mcm","clk":"8473075091","pt":1548624736499,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"ACTIVE","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:17:30.000Z","version":2612693927,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"},"rc":[{"ltp":1.01,"id":12737426}]}]}
+{"op":"mcm","clk":"8473093407","pt":1548624815671,"mc":[{"id":"1.154138501","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099508","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2019-01-27T21:33:28.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":12737426,"name":"H Baptiste"},{"status":"LOSER","sortPriority":2,"id":11633119,"name":"M Osorio Serrano"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:17:30.000Z","version":2612695857,"name":"Match Odds","eventName":"H Baptiste v M Osorio Serrano"}}]}

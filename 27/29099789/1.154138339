@@ -1,0 +1,86 @@
+{"op":"mcm","clk":"8451057311","pt":1548498095852,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T09:00:00.000Z","suspendTime":"2019-01-27T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T09:00:00.000Z","version":2608265368,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}
+{"op":"mcm","clk":"8451065966","pt":1548498198034,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T09:00:00.000Z","suspendTime":"2019-01-27T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T09:00:00.000Z","version":2608265368,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}
+{"op":"mcm","clk":"8458585203","pt":1548564635884,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:50:00.000Z","suspendTime":"2019-01-27T08:50:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:50:00.000Z","version":2610741275,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}
+{"op":"mcm","clk":"8458617535","pt":1548565763044,"mc":[{"id":"1.154138339","rc":[{"ltp":1.36,"id":7216239}]}]}
+{"op":"mcm","clk":"8458690664","pt":1548568291856,"mc":[{"id":"1.154138339","rc":[{"ltp":3.75,"id":8172570}]}]}
+{"op":"mcm","clk":"8458696634","pt":1548568628050,"mc":[{"id":"1.154138339","rc":[{"ltp":1.37,"id":7216239}]}]}
+{"op":"mcm","clk":"8458708738","pt":1548568774685,"mc":[{"id":"1.154138339","rc":[{"ltp":1.36,"id":7216239}]}]}
+{"op":"mcm","clk":"8458743139","pt":1548569733528,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:13:00.000Z","suspendTime":"2019-01-27T08:13:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:13:00.000Z","version":2610788480,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}
+{"op":"mcm","clk":"8458820357","pt":1548571406578,"mc":[{"id":"1.154138339","rc":[{"ltp":1.35,"id":7216239}]}]}
+{"op":"mcm","clk":"8459042588","pt":1548575196656,"mc":[{"id":"1.154138339","rc":[{"ltp":1.34,"id":7216239}]}]}
+{"op":"mcm","clk":"8459071889","pt":1548575729157,"mc":[{"id":"1.154138339","rc":[{"ltp":3.85,"id":8172570}]}]}
+{"op":"mcm","clk":"8459076010","pt":1548575791499,"mc":[{"id":"1.154138339","rc":[{"ltp":1.33,"id":7216239},{"ltp":4.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459079335","pt":1548575841645,"mc":[{"id":"1.154138339","rc":[{"ltp":1.3,"id":7216239}]}]}
+{"op":"mcm","clk":"8459130779","pt":1548576512914,"mc":[{"id":"1.154138339","rc":[{"ltp":1.34,"id":7216239},{"ltp":3.95,"id":8172570}]}]}
+{"op":"mcm","clk":"8459138871","pt":1548576634692,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:08:00.000Z","suspendTime":"2019-01-27T08:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:08:00.000Z","version":2610837243,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}
+{"op":"mcm","clk":"8459143016","pt":1548576697548,"mc":[{"id":"1.154138339","rc":[{"ltp":1.3,"id":7216239},{"ltp":4.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459172105","pt":1548576994563,"mc":[{"id":"1.154138339","rc":[{"ltp":1.31,"id":7216239}]}]}
+{"op":"mcm","clk":"8459175959","pt":1548577056998,"mc":[{"id":"1.154138339","rc":[{"ltp":1.33,"id":7216239}]}]}
+{"op":"mcm","clk":"8459183565","pt":1548577175557,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:08:00.000Z","suspendTime":"2019-01-27T08:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:08:00.000Z","version":2610843288,"name":"Match Odds","eventName":"Z Yang v Paquet"},"rc":[{"ltp":1.28,"id":7216239},{"ltp":4.3,"id":8172570}]}]}
+{"op":"mcm","clk":"8459187473","pt":1548577235002,"mc":[{"id":"1.154138339","rc":[{"ltp":1.3,"id":7216239}]}]}
+{"op":"mcm","clk":"8459191281","pt":1548577292988,"mc":[{"id":"1.154138339","rc":[{"ltp":1.38,"id":7216239},{"ltp":3.7,"id":8172570}]}]}
+{"op":"mcm","clk":"8459195580","pt":1548577355443,"mc":[{"id":"1.154138339","rc":[{"ltp":1.52,"id":7216239},{"ltp":2.94,"id":8172570}]}]}
+{"op":"mcm","clk":"8459199872","pt":1548577417176,"mc":[{"id":"1.154138339","rc":[{"ltp":1.6,"id":7216239},{"ltp":2.7,"id":8172570}]}]}
+{"op":"mcm","clk":"8459203944","pt":1548577475865,"mc":[{"id":"1.154138339","rc":[{"ltp":1.61,"id":7216239}]}]}
+{"op":"mcm","clk":"8459208570","pt":1548577537333,"mc":[{"id":"1.154138339","rc":[{"ltp":1.34,"id":7216239},{"ltp":3.95,"id":8172570}]}]}
+{"op":"mcm","clk":"8459212885","pt":1548577596563,"mc":[{"id":"1.154138339","rc":[{"ltp":1.42,"id":7216239},{"ltp":3.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459225563","pt":1548577657374,"mc":[{"id":"1.154138339","rc":[{"ltp":1.3,"id":7216239},{"ltp":4.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459229207","pt":1548577716902,"mc":[{"id":"1.154138339","rc":[{"ltp":1.37,"id":7216239}]}]}
+{"op":"mcm","clk":"8459236269","pt":1548577836949,"mc":[{"id":"1.154138339","rc":[{"ltp":1.27,"id":7216239}]}]}
+{"op":"mcm","clk":"8459240049","pt":1548577897381,"mc":[{"id":"1.154138339","rc":[{"ltp":1.31,"id":7216239}]}]}
+{"op":"mcm","clk":"8459243782","pt":1548577954863,"mc":[{"id":"1.154138339","rc":[{"ltp":1.4,"id":7216239},{"ltp":3.5,"id":8172570}]}]}
+{"op":"mcm","clk":"8459248102","pt":1548578017526,"mc":[{"id":"1.154138339","rc":[{"ltp":1.32,"id":7216239}]}]}
+{"op":"mcm","clk":"8459251542","pt":1548578074326,"mc":[{"id":"1.154138339","rc":[{"ltp":1.28,"id":7216239}]}]}
+{"op":"mcm","clk":"8459255506","pt":1548578134698,"mc":[{"id":"1.154138339","rc":[{"ltp":1.29,"id":7216239},{"ltp":4.5,"id":8172570}]}]}
+{"op":"mcm","clk":"8459259846","pt":1548578197428,"mc":[{"id":"1.154138339","rc":[{"ltp":1.37,"id":7216239},{"ltp":3.9,"id":8172570}]}]}
+{"op":"mcm","clk":"8459263620","pt":1548578252342,"mc":[{"id":"1.154138339","rc":[{"ltp":1.4,"id":7216239}]}]}
+{"op":"mcm","clk":"8459268318","pt":1548578317070,"mc":[{"id":"1.154138339","rc":[{"ltp":1.31,"id":7216239}]}]}
+{"op":"mcm","clk":"8459272943","pt":1548578376829,"mc":[{"id":"1.154138339","rc":[{"ltp":1.29,"id":7216239},{"ltp":4.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459277132","pt":1548578437253,"mc":[{"id":"1.154138339","rc":[{"ltp":1.24,"id":7216239}]}]}
+{"op":"mcm","clk":"8459281496","pt":1548578493895,"mc":[{"id":"1.154138339","rc":[{"ltp":1.28,"id":7216239}]}]}
+{"op":"mcm","clk":"8459295556","pt":1548578556575,"mc":[{"id":"1.154138339","rc":[{"ltp":1.23,"id":7216239}]}]}
+{"op":"mcm","clk":"8459300647","pt":1548578615099,"mc":[{"id":"1.154138339","rc":[{"ltp":1.13,"id":7216239}]}]}
+{"op":"mcm","clk":"8459306086","pt":1548578677369,"mc":[{"id":"1.154138339","rc":[{"ltp":1.15,"id":7216239},{"ltp":7.6,"id":8172570}]}]}
+{"op":"mcm","clk":"8459310814","pt":1548578737043,"mc":[{"id":"1.154138339","rc":[{"ltp":1.18,"id":7216239},{"ltp":6.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459315348","pt":1548578797421,"mc":[{"id":"1.154138339","rc":[{"ltp":1.13,"id":7216239}]}]}
+{"op":"mcm","clk":"8459318975","pt":1548578843241,"mc":[{"id":"1.154138339","rc":[{"ltp":1.1,"id":7216239},{"ltp":11.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459324029","pt":1548578916925,"mc":[{"id":"1.154138339","rc":[{"ltp":1.11,"id":7216239}]}]}
+{"op":"mcm","clk":"8459327707","pt":1548578976981,"mc":[{"id":"1.154138339","rc":[{"ltp":1.14,"id":7216239}]}]}
+{"op":"mcm","clk":"8459331416","pt":1548579037290,"mc":[{"id":"1.154138339","rc":[{"ltp":1.17,"id":7216239},{"ltp":7.6,"id":8172570}]}]}
+{"op":"mcm","clk":"8459338327","pt":1548579157117,"mc":[{"id":"1.154138339","rc":[{"ltp":1.2,"id":7216239}]}]}
+{"op":"mcm","clk":"8459341776","pt":1548579213844,"mc":[{"id":"1.154138339","rc":[{"ltp":1.18,"id":7216239}]}]}
+{"op":"mcm","clk":"8459345754","pt":1548579276656,"mc":[{"id":"1.154138339","rc":[{"ltp":1.23,"id":7216239}]}]}
+{"op":"mcm","clk":"8459349499","pt":1548579337124,"mc":[{"id":"1.154138339","rc":[{"ltp":1.3,"id":7216239}]}]}
+{"op":"mcm","clk":"8459353142","pt":1548579397265,"mc":[{"id":"1.154138339","rc":[{"ltp":1.25,"id":7216239},{"ltp":5.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459366341","pt":1548579457236,"mc":[{"id":"1.154138339","rc":[{"ltp":1.24,"id":7216239},{"ltp":4.2,"id":8172570}]}]}
+{"op":"mcm","clk":"8459368493","pt":1548579491849,"mc":[{"id":"1.154138339","rc":[{"ltp":1.16,"id":7216239},{"ltp":6.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459374071","pt":1548579577458,"mc":[{"id":"1.154138339","rc":[{"ltp":1.17,"id":7216239},{"ltp":6.4,"id":8172570}]}]}
+{"op":"mcm","clk":"8459378790","pt":1548579636816,"mc":[{"id":"1.154138339","rc":[{"ltp":1.15,"id":7216239},{"ltp":7.8,"id":8172570}]}]}
+{"op":"mcm","clk":"8459383442","pt":1548579696883,"mc":[{"id":"1.154138339","rc":[{"ltp":1.14,"id":7216239},{"ltp":8.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459388185","pt":1548579757036,"mc":[{"id":"1.154138339","rc":[{"ltp":1.1,"id":7216239},{"ltp":10.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459392654","pt":1548579817223,"mc":[{"id":"1.154138339","rc":[{"ltp":1.17,"id":7216239},{"ltp":8.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459396756","pt":1548579877203,"mc":[{"id":"1.154138339","rc":[{"ltp":1.14,"id":7216239}]}]}
+{"op":"mcm","clk":"8459399825","pt":1548579924938,"mc":[{"id":"1.154138339","rc":[{"ltp":1.19,"id":7216239}]}]}
+{"op":"mcm","clk":"8459404341","pt":1548579996630,"mc":[{"id":"1.154138339","rc":[{"ltp":1.2,"id":7216239},{"ltp":6.8,"id":8172570}]}]}
+{"op":"mcm","clk":"8459408142","pt":1548580057015,"mc":[{"id":"1.154138339","rc":[{"ltp":1.26,"id":7216239},{"ltp":6.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459411350","pt":1548580117468,"mc":[{"id":"1.154138339","rc":[{"ltp":1.16,"id":7216239}]}]}
+{"op":"mcm","clk":"8459418299","pt":1548580237423,"mc":[{"id":"1.154138339","rc":[{"ltp":1.14,"id":7216239},{"ltp":8.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459421677","pt":1548580296268,"mc":[{"id":"1.154138339","rc":[{"ltp":1.1,"id":7216239},{"ltp":12.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459434434","pt":1548580357246,"mc":[{"id":"1.154138339","rc":[{"ltp":1.06,"id":7216239},{"ltp":18.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459438167","pt":1548580415325,"mc":[{"id":"1.154138339","rc":[{"ltp":1.05,"id":7216239}]}]}
+{"op":"mcm","clk":"8459442032","pt":1548580475019,"mc":[{"id":"1.154138339","rc":[{"ltp":21.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459446086","pt":1548580536741,"mc":[{"id":"1.154138339","rc":[{"ltp":1.07,"id":7216239}]}]}
+{"op":"mcm","clk":"8459449977","pt":1548580597310,"mc":[{"id":"1.154138339","rc":[{"ltp":1.03,"id":7216239}]}]}
+{"op":"mcm","clk":"8459453882","pt":1548580656276,"mc":[{"id":"1.154138339","rc":[{"ltp":1.1,"id":7216239},{"ltp":34.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459457953","pt":1548580716331,"mc":[{"id":"1.154138339","rc":[{"ltp":1.05,"id":7216239}]}]}
+{"op":"mcm","clk":"8459462444","pt":1548580776227,"mc":[{"id":"1.154138339","rc":[{"ltp":1.1,"id":7216239},{"ltp":12.5,"id":8172570}]}]}
+{"op":"mcm","clk":"8459466494","pt":1548580837171,"mc":[{"id":"1.154138339","rc":[{"ltp":1.06,"id":7216239}]}]}
+{"op":"mcm","clk":"8459470558","pt":1548580896621,"mc":[{"id":"1.154138339","rc":[{"ltp":1.07,"id":7216239}]}]}
+{"op":"mcm","clk":"8459474795","pt":1548580957510,"mc":[{"id":"1.154138339","rc":[{"ltp":11.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459479102","pt":1548581016163,"mc":[{"id":"1.154138339","rc":[{"ltp":1.11,"id":7216239},{"ltp":10.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459483366","pt":1548581077319,"mc":[{"id":"1.154138339","rc":[{"ltp":1.04,"id":7216239},{"ltp":10.5,"id":8172570}]}]}
+{"op":"mcm","clk":"8459487256","pt":1548581137163,"mc":[{"id":"1.154138339","rc":[{"ltp":1.08,"id":7216239}]}]}
+{"op":"mcm","clk":"8459491326","pt":1548581196066,"mc":[{"id":"1.154138339","rc":[{"ltp":1.02,"id":7216239},{"ltp":34.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459504425","pt":1548581256225,"mc":[{"id":"1.154138339","rc":[{"ltp":50.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459508226","pt":1548581316293,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:08:00.000Z","suspendTime":"2019-01-27T08:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"ACTIVE","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:08:00.000Z","version":2610876223,"name":"Match Odds","eventName":"Z Yang v Paquet"},"rc":[{"ltp":1.01,"id":7216239},{"ltp":100.0,"id":8172570}]}]}
+{"op":"mcm","clk":"8459512034","pt":1548581370084,"mc":[{"id":"1.154138339","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099789","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-27T08:08:00.000Z","suspendTime":"2019-01-27T08:08:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2019-01-27T09:29:21.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":8172570,"name":"Zhaoxuan Yang"},{"status":"WINNER","sortPriority":2,"id":7216239,"name":"Chloe Paquet"}],"regulators":["MR_INT"],"countryCode":"TH","discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T08:08:00.000Z","version":2610876921,"name":"Match Odds","eventName":"Z Yang v Paquet"}}]}

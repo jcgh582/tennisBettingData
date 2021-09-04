@@ -1,0 +1,97 @@
+{"op":"mcm","clk":"8397005692","pt":1548498793137,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T14:00:00.000Z","version":2608275859,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8397014658","pt":1548498863686,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T14:00:00.000Z","version":2608275859,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8398292738","pt":1548507977609,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T17:00:00.000Z","version":2608588078,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8398422759","pt":1548508697444,"mc":[{"id":"1.154138500","rc":[{"ltp":1.5,"id":2402810}]}]}
+{"op":"mcm","clk":"8398865634","pt":1548510962917,"mc":[{"id":"1.154138500","rc":[{"ltp":1.6,"id":2402810},{"ltp":2.66,"id":9627149}]}]}
+{"op":"mcm","clk":"8398943683","pt":1548511392741,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T17:00:00.000Z","version":2608751234,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8400424138","pt":1548516968199,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609104415,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8401729189","pt":1548522651582,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609563799,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8401764803","pt":1548522917789,"mc":[{"id":"1.154138500","rc":[{"ltp":1.47,"id":2402810}]}]}
+{"op":"mcm","clk":"8402888047","pt":1548529985696,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:00:00.000Z","version":2609905357,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8402944068","pt":1548530308140,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:18:22.000Z","version":2609918691,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}
+{"op":"mcm","clk":"8402997385","pt":1548530594634,"mc":[{"id":"1.154138500","rc":[{"ltp":1.51,"id":2402810}]}]}
+{"op":"mcm","clk":"8403016423","pt":1548530715099,"mc":[{"id":"1.154138500","rc":[{"ltp":1.6,"id":2402810}]}]}
+{"op":"mcm","clk":"8403025466","pt":1548530769563,"mc":[{"id":"1.154138500","rc":[{"ltp":2.68,"id":9627149}]}]}
+{"op":"mcm","clk":"8403035059","pt":1548530830041,"mc":[{"id":"1.154138500","rc":[{"ltp":1.61,"id":2402810}]}]}
+{"op":"mcm","clk":"8403147026","pt":1548531466215,"mc":[{"id":"1.154138500","rc":[{"ltp":1.64,"id":2402810},{"ltp":1.93,"id":9627149}]}]}
+{"op":"mcm","clk":"8404946594","pt":1548549377712,"mc":[{"id":"1.154138500","rc":[{"ltp":1.35,"id":2402810}]}]}
+{"op":"mcm","clk":"8405361447","pt":1548553951052,"mc":[{"id":"1.154138500","rc":[{"ltp":1.3,"id":2402810}]}]}
+{"op":"mcm","clk":"8405767354","pt":1548558440640,"mc":[{"id":"1.154138500","rc":[{"ltp":1.36,"id":2402810}]}]}
+{"op":"mcm","clk":"8406056259","pt":1548562757356,"mc":[{"id":"1.154138500","rc":[{"ltp":1.34,"id":2402810}]}]}
+{"op":"mcm","clk":"8406195166","pt":1548566975753,"mc":[{"id":"1.154138500","rc":[{"ltp":1.83,"id":2402810}]}]}
+{"op":"mcm","clk":"8406220135","pt":1548568076725,"mc":[{"id":"1.154138500","rc":[{"ltp":2.2,"id":9627149}]}]}
+{"op":"mcm","clk":"8406238922","pt":1548568637904,"mc":[{"id":"1.154138500","rc":[{"ltp":1.38,"id":2402810}]}]}
+{"op":"mcm","clk":"8407104428","pt":1548584582334,"mc":[{"id":"1.154138500","rc":[{"ltp":1.64,"id":2402810},{"ltp":2.58,"id":9627149}]}]}
+{"op":"mcm","clk":"8407304182","pt":1548586813650,"mc":[{"id":"1.154138500","rc":[{"ltp":1.62,"id":2402810}]}]}
+{"op":"mcm","clk":"8407310707","pt":1548586876782,"mc":[{"id":"1.154138500","rc":[{"ltp":2.0,"id":2402810},{"ltp":2.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8407380764","pt":1548587417219,"mc":[{"id":"1.154138500","rc":[{"ltp":1.49,"id":2402810}]}]}
+{"op":"mcm","clk":"8407532717","pt":1548588757244,"mc":[{"id":"1.154138500","rc":[{"ltp":1.7,"id":2402810}]}]}
+{"op":"mcm","clk":"8407563111","pt":1548589028483,"mc":[{"id":"1.154138500","rc":[{"ltp":1.65,"id":2402810}]}]}
+{"op":"mcm","clk":"8408214960","pt":1548594280440,"mc":[{"id":"1.154138500","rc":[{"ltp":1.81,"id":2402810}]}]}
+{"op":"mcm","clk":"8408613688","pt":1548597257282,"mc":[{"id":"1.154138500","rc":[{"ltp":1.79,"id":2402810}]}]}
+{"op":"mcm","clk":"8408916649","pt":1548599314946,"mc":[{"id":"1.154138500","rc":[{"ltp":1.73,"id":2402810}]}]}
+{"op":"mcm","clk":"8408970914","pt":1548599704873,"mc":[{"id":"1.154138500","rc":[{"ltp":1.67,"id":2402810}]}]}
+{"op":"mcm","clk":"8408988478","pt":1548599816057,"mc":[{"id":"1.154138500","rc":[{"ltp":1.65,"id":2402810}]}]}
+{"op":"mcm","clk":"8409257973","pt":1548601574980,"mc":[{"id":"1.154138500","rc":[{"ltp":1.4,"id":2402810}]}]}
+{"op":"mcm","clk":"8409372974","pt":1548602157044,"mc":[{"id":"1.154138500","rc":[{"ltp":1.59,"id":2402810}]}]}
+{"op":"mcm","clk":"8410158418","pt":1548607051775,"mc":[{"id":"1.154138500","rc":[{"ltp":1.41,"id":2402810}]}]}
+{"op":"mcm","clk":"8410240543","pt":1548607641640,"mc":[{"id":"1.154138500","rc":[{"ltp":1.37,"id":2402810}]}]}
+{"op":"mcm","clk":"8410287367","pt":1548607964821,"mc":[{"id":"1.154138500","rc":[{"ltp":1.4,"id":2402810}]}]}
+{"op":"mcm","clk":"8410429816","pt":1548608951272,"mc":[{"id":"1.154138500","rc":[{"ltp":1.74,"id":2402810}]}]}
+{"op":"mcm","clk":"8410609653","pt":1548610188478,"mc":[{"id":"1.154138500","rc":[{"ltp":2.34,"id":9627149}]}]}
+{"op":"mcm","clk":"8410777466","pt":1548611346460,"mc":[{"id":"1.154138500","rc":[{"ltp":1.41,"id":2402810},{"ltp":3.45,"id":9627149}]}]}
+{"op":"mcm","clk":"8411338214","pt":1548615311178,"mc":[{"id":"1.154138500","rc":[{"ltp":1.46,"id":2402810}]}]}
+{"op":"mcm","clk":"8411350877","pt":1548615469027,"mc":[{"id":"1.154138500","rc":[{"ltp":1.48,"id":2402810}]}]}
+{"op":"mcm","clk":"8411667012","pt":1548618485114,"mc":[{"id":"1.154138500","rc":[{"ltp":1.54,"id":2402810}]}]}
+{"op":"mcm","clk":"8411673313","pt":1548618557234,"mc":[{"id":"1.154138500","rc":[{"ltp":1.58,"id":2402810}]}]}
+{"op":"mcm","clk":"8411678230","pt":1548618616145,"mc":[{"id":"1.154138500","rc":[{"ltp":1.67,"id":2402810}]}]}
+{"op":"mcm","clk":"8411682983","pt":1548618677096,"mc":[{"id":"1.154138500","rc":[{"ltp":1.57,"id":2402810}]}]}
+{"op":"mcm","clk":"8411687215","pt":1548618729062,"mc":[{"id":"1.154138500","rc":[{"ltp":1.58,"id":2402810}]}]}
+{"op":"mcm","clk":"8411700729","pt":1548618796114,"mc":[{"id":"1.154138500","rc":[{"ltp":1.52,"id":2402810},{"ltp":2.88,"id":9627149}]}]}
+{"op":"mcm","clk":"8411704996","pt":1548618853114,"mc":[{"id":"1.154138500","rc":[{"ltp":1.46,"id":2402810}]}]}
+{"op":"mcm","clk":"8411708885","pt":1548618910966,"mc":[{"id":"1.154138500","rc":[{"ltp":1.43,"id":2402810},{"ltp":3.3,"id":9627149}]}]}
+{"op":"mcm","clk":"8411713259","pt":1548618976187,"mc":[{"id":"1.154138500","rc":[{"ltp":1.37,"id":2402810}]}]}
+{"op":"mcm","clk":"8411717887","pt":1548619036823,"mc":[{"id":"1.154138500","rc":[{"ltp":1.39,"id":2402810},{"ltp":3.75,"id":9627149}]}]}
+{"op":"mcm","clk":"8411722256","pt":1548619096489,"mc":[{"id":"1.154138500","rc":[{"ltp":1.32,"id":2402810}]}]}
+{"op":"mcm","clk":"8411726471","pt":1548619157568,"mc":[{"id":"1.154138500","rc":[{"ltp":1.26,"id":2402810}]}]}
+{"op":"mcm","clk":"8411730273","pt":1548619209741,"mc":[{"id":"1.154138500","rc":[{"ltp":1.27,"id":2402810}]}]}
+{"op":"mcm","clk":"8411733807","pt":1548619256819,"mc":[{"id":"1.154138500","rc":[{"ltp":1.35,"id":2402810}]}]}
+{"op":"mcm","clk":"8411739005","pt":1548619334445,"mc":[{"id":"1.154138500","rc":[{"ltp":1.34,"id":2402810},{"ltp":3.7,"id":9627149}]}]}
+{"op":"mcm","clk":"8411746384","pt":1548619450096,"mc":[{"id":"1.154138500","rc":[{"ltp":1.24,"id":2402810}]}]}
+{"op":"mcm","clk":"8411749815","pt":1548619498234,"mc":[{"id":"1.154138500","rc":[{"ltp":1.2,"id":2402810}]}]}
+{"op":"mcm","clk":"8411755726","pt":1548619576428,"mc":[{"id":"1.154138500","rc":[{"ltp":6.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8411760088","pt":1548619635499,"mc":[{"id":"1.154138500","rc":[{"ltp":1.19,"id":2402810}]}]}
+{"op":"mcm","clk":"8411771402","pt":1548619682076,"mc":[{"id":"1.154138500","rc":[{"ltp":1.17,"id":2402810}]}]}
+{"op":"mcm","clk":"8411777705","pt":1548619754034,"mc":[{"id":"1.154138500","rc":[{"ltp":1.22,"id":2402810}]}]}
+{"op":"mcm","clk":"8411782892","pt":1548619811313,"mc":[{"id":"1.154138500","rc":[{"ltp":1.21,"id":2402810},{"ltp":6.4,"id":9627149}]}]}
+{"op":"mcm","clk":"8411789368","pt":1548619875764,"mc":[{"id":"1.154138500","rc":[{"ltp":1.19,"id":2402810}]}]}
+{"op":"mcm","clk":"8411799655","pt":1548619990326,"mc":[{"id":"1.154138500","rc":[{"ltp":1.16,"id":2402810},{"ltp":7.2,"id":9627149}]}]}
+{"op":"mcm","clk":"8411810200","pt":1548620105569,"mc":[{"id":"1.154138500","rc":[{"ltp":1.13,"id":2402810}]}]}
+{"op":"mcm","clk":"8411815488","pt":1548620170474,"mc":[{"id":"1.154138500","rc":[{"ltp":1.1,"id":2402810}]}]}
+{"op":"mcm","clk":"8411820548","pt":1548620234155,"mc":[{"id":"1.154138500","rc":[{"ltp":1.09,"id":2402810}]}]}
+{"op":"mcm","clk":"8411825030","pt":1548620290285,"mc":[{"id":"1.154138500","rc":[{"ltp":12.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8411830635","pt":1548620355697,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810}]}]}
+{"op":"mcm","clk":"8411836081","pt":1548620416042,"mc":[{"id":"1.154138500","rc":[{"ltp":1.06,"id":2402810}]}]}
+{"op":"mcm","clk":"8411841281","pt":1548620477230,"mc":[{"id":"1.154138500","rc":[{"ltp":1.07,"id":2402810}]}]}
+{"op":"mcm","clk":"8411846114","pt":1548620534171,"mc":[{"id":"1.154138500","rc":[{"ltp":1.06,"id":2402810}]}]}
+{"op":"mcm","clk":"8411858898","pt":1548620596964,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810}]}]}
+{"op":"mcm","clk":"8411869905","pt":1548620715830,"mc":[{"id":"1.154138500","rc":[{"ltp":1.07,"id":2402810}]}]}
+{"op":"mcm","clk":"8411875866","pt":1548620774813,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810}]}]}
+{"op":"mcm","clk":"8411881266","pt":1548620828709,"mc":[{"id":"1.154138500","rc":[{"ltp":1.07,"id":2402810},{"ltp":15.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8411887108","pt":1548620889688,"mc":[{"id":"1.154138500","rc":[{"ltp":1.09,"id":2402810}]}]}
+{"op":"mcm","clk":"8411891953","pt":1548620955275,"mc":[{"id":"1.154138500","rc":[{"ltp":1.06,"id":2402810},{"ltp":17.5,"id":9627149}]}]}
+{"op":"mcm","clk":"8411901386","pt":1548621077793,"mc":[{"id":"1.154138500","rc":[{"ltp":1.08,"id":2402810}]}]}
+{"op":"mcm","clk":"8411906339","pt":1548621135086,"mc":[{"id":"1.154138500","rc":[{"ltp":1.06,"id":2402810}]}]}
+{"op":"mcm","clk":"8411911205","pt":1548621195692,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810}]}]}
+{"op":"mcm","clk":"8411926124","pt":1548621375748,"mc":[{"id":"1.154138500","rc":[{"ltp":1.03,"id":2402810}]}]}
+{"op":"mcm","clk":"8411931303","pt":1548621434605,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810},{"ltp":21.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8411943816","pt":1548621497207,"mc":[{"id":"1.154138500","rc":[{"ltp":1.02,"id":2402810}]}]}
+{"op":"mcm","clk":"8411959337","pt":1548621677642,"mc":[{"id":"1.154138500","rc":[{"ltp":1.03,"id":2402810}]}]}
+{"op":"mcm","clk":"8411974842","pt":1548621851233,"mc":[{"id":"1.154138500","rc":[{"ltp":1.02,"id":2402810}]}]}
+{"op":"mcm","clk":"8411984117","pt":1548621965221,"mc":[{"id":"1.154138500","rc":[{"ltp":1.04,"id":2402810}]}]}
+{"op":"mcm","clk":"8411988270","pt":1548622017518,"mc":[{"id":"1.154138500","rc":[{"ltp":1.02,"id":2402810}]}]}
+{"op":"mcm","clk":"8412009124","pt":1548622274101,"mc":[{"id":"1.154138500","rc":[{"ltp":1.07,"id":2402810}]}]}
+{"op":"mcm","clk":"8412014431","pt":1548622334742,"mc":[{"id":"1.154138500","rc":[{"ltp":1.05,"id":2402810}]}]}
+{"op":"mcm","clk":"8412026302","pt":1548622387790,"mc":[{"id":"1.154138500","rc":[{"ltp":1.01,"id":2402810}]}]}
+{"op":"mcm","clk":"8412049423","pt":1548622743571,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"ACTIVE","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:18:22.000Z","version":2612615843,"name":"Match Odds","eventName":"A Bondar v U Eikeri"},"rc":[{"ltp":1000.0,"id":9627149}]}]}
+{"op":"mcm","clk":"8412051137","pt":1548622769902,"mc":[{"id":"1.154138500","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29099509","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS","marketTime":"2019-01-26T14:00:00.000Z","suspendTime":"2019-01-26T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2019-01-27T20:59:21.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":2402810,"name":"A Bondar"},{"status":"LOSER","sortPriority":2,"id":9627149,"name":"U Eikeri"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2019-01-26T19:18:22.000Z","version":2612617097,"name":"Match Odds","eventName":"A Bondar v U Eikeri"}}]}

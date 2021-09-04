@@ -1,0 +1,48 @@
+{"op":"mcm","clk":"8457611468","pt":1548546391215,"mc":[{"id":"1.154176370","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29100785","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_BETTING","marketTime":"2019-01-27T18:00:00.000Z","suspendTime":"2019-01-27T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":4,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14343848,"name":"Pegula 2-0"},{"status":"ACTIVE","sortPriority":2,"id":14343851,"name":"Pegula 2-1"},{"status":"ACTIVE","sortPriority":3,"id":13121281,"name":"Andreescu 2-0"},{"status":"ACTIVE","sortPriority":4,"id":13121282,"name":"Andreescu 2-1"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T18:00:00.000Z","version":2610501466,"name":"Set Betting","eventName":"Pegula v Andreescu"}}]}
+{"op":"mcm","clk":"8462774722","pt":1548603103767,"mc":[{"id":"1.154176370","rc":[{"ltp":5.5,"id":14343848}]}]}
+{"op":"mcm","clk":"8463816522","pt":1548609585459,"mc":[{"id":"1.154176370","rc":[{"ltp":4.4,"id":13121282}]}]}
+{"op":"mcm","clk":"8463913908","pt":1548610290886,"mc":[{"id":"1.154176370","rc":[{"ltp":1.99,"id":13121281}]}]}
+{"op":"mcm","clk":"8463956245","pt":1548610602305,"mc":[{"id":"1.154176370","rc":[{"ltp":2.08,"id":13121281}]}]}
+{"op":"mcm","clk":"8463990092","pt":1548610904311,"mc":[{"id":"1.154176370","rc":[{"ltp":2.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464048469","pt":1548611441740,"mc":[{"id":"1.154176370","rc":[{"ltp":1.99,"id":13121281}]}]}
+{"op":"mcm","clk":"8464054132","pt":1548611504154,"mc":[{"id":"1.154176370","rc":[{"ltp":1.98,"id":13121281}]}]}
+{"op":"mcm","clk":"8464074642","pt":1548611745565,"mc":[{"id":"1.154176370","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29100785","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_BETTING","marketTime":"2019-01-27T17:52:00.000Z","suspendTime":"2019-01-27T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":4,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14343848,"name":"Pegula 2-0"},{"status":"ACTIVE","sortPriority":2,"id":14343851,"name":"Pegula 2-1"},{"status":"ACTIVE","sortPriority":3,"id":13121281,"name":"Andreescu 2-0"},{"status":"ACTIVE","sortPriority":4,"id":13121282,"name":"Andreescu 2-1"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T17:52:00.000Z","version":2612188539,"name":"Set Betting","eventName":"Pegula v Andreescu"}}]}
+{"op":"mcm","clk":"8464089553","pt":1548611865410,"mc":[{"id":"1.154176370","rc":[{"ltp":1.99,"id":13121281}]}]}
+{"op":"mcm","clk":"8464100120","pt":1548612044065,"mc":[{"id":"1.154176370","rc":[{"ltp":2.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464108246","pt":1548612159757,"mc":[{"id":"1.154176370","rc":[{"ltp":2.02,"id":13121281}]}]}
+{"op":"mcm","clk":"8464143846","pt":1548612645252,"mc":[{"id":"1.154176370","rc":[{"ltp":1.96,"id":13121281}]}]}
+{"op":"mcm","clk":"8464147616","pt":1548612699440,"mc":[{"id":"1.154176370","rc":[{"ltp":2.04,"id":13121281}]}]}
+{"op":"mcm","clk":"8464159759","pt":1548612765610,"mc":[{"id":"1.154176370","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29100785","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_BETTING","marketTime":"2019-01-27T17:52:00.000Z","suspendTime":"2019-01-27T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":4,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":14343848,"name":"Pegula 2-0"},{"status":"ACTIVE","sortPriority":2,"id":14343851,"name":"Pegula 2-1"},{"status":"ACTIVE","sortPriority":3,"id":13121281,"name":"Andreescu 2-0"},{"status":"ACTIVE","sortPriority":4,"id":13121282,"name":"Andreescu 2-1"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T17:52:00.000Z","version":2612236731,"name":"Set Betting","eventName":"Pegula v Andreescu"},"rc":[{"ltp":1.94,"id":13121281}]}]}
+{"op":"mcm","clk":"8464168266","pt":1548612885649,"mc":[{"id":"1.154176370","rc":[{"ltp":5.0,"id":13121282},{"ltp":8.0,"id":14343851},{"ltp":5.9,"id":14343848},{"ltp":2.36,"id":13121281}]}]}
+{"op":"mcm","clk":"8464172301","pt":1548612945152,"mc":[{"id":"1.154176370","rc":[{"ltp":2.2,"id":13121281}]}]}
+{"op":"mcm","clk":"8464181020","pt":1548613065629,"mc":[{"id":"1.154176370","rc":[{"ltp":3.4,"id":13121281}]}]}
+{"op":"mcm","clk":"8464185309","pt":1548613125386,"mc":[{"id":"1.154176370","rc":[{"ltp":3.15,"id":14343848},{"ltp":3.2,"id":13121281}]}]}
+{"op":"mcm","clk":"8464189351","pt":1548613185575,"mc":[{"id":"1.154176370","rc":[{"ltp":2.82,"id":14343848}]}]}
+{"op":"mcm","clk":"8464210979","pt":1548613485584,"mc":[{"id":"1.154176370","rc":[{"ltp":11.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464255170","pt":1548613965657,"mc":[{"id":"1.154176370","rc":[{"ltp":3.25,"id":13121282},{"ltp":6.0,"id":14343851},{"ltp":2.0,"id":14343848},{"ltp":34.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464264290","pt":1548614085603,"mc":[{"id":"1.154176370","rc":[{"ltp":2.02,"id":14343848}]}]}
+{"op":"mcm","clk":"8464269193","pt":1548614145572,"mc":[{"id":"1.154176370","rc":[{"ltp":3.2,"id":13121282},{"ltp":5.6,"id":14343851},{"ltp":85.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464278806","pt":1548614265595,"mc":[{"id":"1.154176370","rc":[{"ltp":1.92,"id":14343848}]}]}
+{"op":"mcm","clk":"8464283895","pt":1548614325280,"mc":[{"id":"1.154176370","rc":[{"ltp":5.7,"id":14343851}]}]}
+{"op":"mcm","clk":"8464289488","pt":1548614385641,"mc":[{"id":"1.154176370","rc":[{"ltp":3.65,"id":13121282},{"ltp":5.8,"id":14343851},{"ltp":1.76,"id":14343848}]}]}
+{"op":"mcm","clk":"8464295120","pt":1548614445615,"mc":[{"id":"1.154176370","rc":[{"ltp":5.6,"id":14343851}]}]}
+{"op":"mcm","clk":"8464313484","pt":1548614565221,"mc":[{"id":"1.154176370","rc":[{"ltp":1.78,"id":14343848}]}]}
+{"op":"mcm","clk":"8464340190","pt":1548614865662,"mc":[{"id":"1.154176370","rc":[{"ltp":4.3,"id":13121282}]}]}
+{"op":"mcm","clk":"8464360014","pt":1548615105530,"mc":[{"id":"1.154176370","rc":[{"ltp":3.55,"id":13121282},{"ltp":1.67,"id":14343848}]}]}
+{"op":"mcm","clk":"8464364488","pt":1548615165635,"mc":[{"id":"1.154176370","rc":[{"ltp":1.54,"id":14343848}]}]}
+{"op":"mcm","clk":"8464369283","pt":1548615225399,"mc":[{"id":"1.154176370","rc":[{"ltp":1.5,"id":14343848}]}]}
+{"op":"mcm","clk":"8464379367","pt":1548615345667,"mc":[{"id":"1.154176370","rc":[{"ltp":3.35,"id":13121282}]}]}
+{"op":"mcm","clk":"8464397336","pt":1548615465544,"mc":[{"id":"1.154176370","rc":[{"ltp":2.86,"id":14343848}]}]}
+{"op":"mcm","clk":"8464402866","pt":1548615525621,"mc":[{"id":"1.154176370","rc":[{"ltp":2.46,"id":13121282},{"ltp":3.95,"id":14343851},{"ltp":3.5,"id":14343848},{"ltp":1000.0,"id":13121281}]}]}
+{"op":"mcm","clk":"8464408725","pt":1548615585524,"mc":[{"id":"1.154176370","rc":[{"ltp":2.24,"id":13121282},{"ltp":3.5,"id":14343851},{"ltp":3.75,"id":14343848}]}]}
+{"op":"mcm","clk":"8464436050","pt":1548615825566,"mc":[{"id":"1.154176370","rc":[{"ltp":2.1,"id":13121282}]}]}
+{"op":"mcm","clk":"8464441962","pt":1548615885236,"mc":[{"id":"1.154176370","rc":[{"ltp":6.0,"id":14343848}]}]}
+{"op":"mcm","clk":"8464472169","pt":1548616185328,"mc":[{"id":"1.154176370","rc":[{"ltp":3.7,"id":13121282},{"ltp":5.2,"id":14343851},{"ltp":1.86,"id":14343848}]}]}
+{"op":"mcm","clk":"8464505241","pt":1548616425660,"mc":[{"id":"1.154176370","rc":[{"ltp":5.3,"id":14343848}]}]}
+{"op":"mcm","clk":"8464511421","pt":1548616485412,"mc":[{"id":"1.154176370","rc":[{"ltp":7.8,"id":14343848}]}]}
+{"op":"mcm","clk":"8464540607","pt":1548616785644,"mc":[{"id":"1.154176370","rc":[{"ltp":1.4,"id":13121282},{"ltp":3.5,"id":14343851}]}]}
+{"op":"mcm","clk":"8464546190","pt":1548616845475,"mc":[{"id":"1.154176370","rc":[{"ltp":3.15,"id":14343851}]}]}
+{"op":"mcm","clk":"8464596093","pt":1548617325481,"mc":[{"id":"1.154176370","rc":[{"ltp":1.32,"id":13121282}]}]}
+{"op":"mcm","clk":"8464629853","pt":1548617681317,"mc":[{"id":"1.154176370","rc":[{"ltp":1.17,"id":13121282}]}]}
+{"op":"mcm","clk":"8464641882","pt":1548617805610,"mc":[{"id":"1.154176370","rc":[{"ltp":1.06,"id":13121282}]}]}
+{"op":"mcm","clk":"8464717535","pt":1548618572883,"mc":[{"id":"1.154176370","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"29100785","eventTypeId":"2","numberOfWinners":1,"bettingType":"ODDS","marketType":"SET_BETTING","marketTime":"2019-01-27T17:52:00.000Z","suspendTime":"2019-01-27T17:52:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2019-01-27T19:49:22.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":14343848,"name":"Pegula 2-0"},{"status":"LOSER","sortPriority":2,"id":14343851,"name":"Pegula 2-1"},{"status":"LOSER","sortPriority":3,"id":13121281,"name":"Andreescu 2-0"},{"status":"WINNER","sortPriority":4,"id":13121282,"name":"Andreescu 2-1"}],"regulators":["MR_INT"],"discountAllowed":true,"timezone":"UTC","openDate":"2019-01-27T17:52:00.000Z","version":2612444696,"name":"Set Betting","eventName":"Pegula v Andreescu"}}]}
